@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<unit name="main">
+
+	<type name="main" scope="global">
+	</type>
+	
+	<form name="main">
+		<column width="2"/>
+		<column width="4"/>
+		<column width="60"/>
+	</form>
+
+</unit>
